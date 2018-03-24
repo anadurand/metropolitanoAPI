@@ -35,10 +35,14 @@ Lo que deberás visualizar es :
 ![regular](/assets/regular.png)
 
 La entidad Servicio regular guarda la siguiente estructura:
-id: identificador unico de la unidad o servicio del metropolitano.
-name : Nombre de la unidad o servicio del metropolitano.
-category: Indica el troncal al que pertenece (regular)
-schedule: Horario del servicio del metropolitano
+
+- id: identificador unico de la unidad o servicio del metropolitano.
+
+- name : Nombre de la unidad o servicio del metropolitano.
+
+- category: Indica el troncal al que pertenece (regular)
+
+- schedule: Horario del servicio del metropolitano
 
 
 ## Continua con el proyecto
